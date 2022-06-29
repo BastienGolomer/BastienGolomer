@@ -5,7 +5,7 @@
 -->
 Greetings! I am Bastien, a MSc student in Physics and Data Science at EPFL. I am also an enthusiast of software engineering, always interested in learning new things !
 
-## 🔭 I’m currently working on ...
+## 🔭 Current work
 At the moment, I am finishing my courses at EPFL, but will soon start working on a new exciting project !
 
 ## 🌱 I’m currently learning ...
