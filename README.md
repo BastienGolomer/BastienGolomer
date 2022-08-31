@@ -12,8 +12,8 @@ At the moment, I am finishing my courses at EPFL, but will soon start working on
 Many things at once! I'm interested in all sorts of things. 
 
 Tech related
-* On my way to being proficient in certain Machine Learning frameworks :smiley: 
-* I am trying to learn the basics of software engineering. That's a long road ! I will attempt several mini-projects to fully understand every bit !
+* Optimization and Machine Learning 
+* Basics of software engineering. I will attempt several mini-projects to fully understand every bit !
 
 Physics related 
 * Accelerator physics, there is so much to learn about it. You can do optics, plasma, electrodynamics, solid state physics (for detectors and beam line elements). So cool 🤓
