@@ -17,10 +17,13 @@ ML and DL
 * Explore new flavours of machine learning methods
 
 Software engineering
-* Basics of software engineering: DevOps
+* Basics of software engineering
 * System Design
 * front-end and back-end
 * Dabase systems
+
+Tools
+* Docker
 
 <!--
 Physics related 
@@ -30,8 +33,9 @@ Physics related
 * Astrophysics and Statistical physics are also wonderful. I should try General Relativity some day though 🤔 ...
 -->
 
-Other things
+Hobbies
 * Martial arts
+* Distance running
 * nutrition ("Mens sana in corpore sano")
 * hardware-wise, I am interested in audio (PA systems, headphones, etc...) and stage lighting (light shows, DMX programming)
 
