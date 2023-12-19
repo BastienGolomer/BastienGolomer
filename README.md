@@ -8,22 +8,24 @@ I am also an enthusiast of software engineering, always interested in learning n
 
 ## 🔭 Current work
 Looking for opportunities to apply machine learning and deep learning methods to interdisciplinary projects.
-I have a special interest in biomedical applications, particularly radiotherapy, but my main motivation is to harness these technologies to solve problems and help people.
+I have a special interest in MedTech and CleanTech, but my main motivation is to harness these technologies to solve problems and help people.
+
 
 ## 🌱 I’m currently learning ...
 Many things at once! I'm interested in all sorts of things. 
 
-ML and DL
+### ML and DL
 * Explore new flavours of machine learning methods
 
-Software engineering
+### Software engineering
 * Basics of software engineering
 * System Design
 * front-end and back-end
 * Dabase systems
 
-Tools
+### Tools
 * Docker
+* Azure for Machine learning
 
 <!--
 Physics related 
@@ -34,8 +36,7 @@ Physics related
 -->
 
 Hobbies
-* Martial arts
-* Distance running
+* Martial arts & Distance running
 * nutrition ("Mens sana in corpore sano")
 * hardware-wise, I am interested in audio (PA systems, headphones, etc...) and stage lighting (light shows, DMX programming)
 
