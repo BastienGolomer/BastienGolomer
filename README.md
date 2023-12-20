@@ -8,11 +8,12 @@ I am also an enthusiast of software engineering, always interested in learning n
 
 ## 🔭 Current work
 Looking for opportunities to apply machine learning and deep learning methods to interdisciplinary projects.
-I have a special interest in MedTech and CleanTech, but my main motivation is to harness these technologies to solve problems and help people.
+I have a special interest in MedTech and CleanTech, but my main motivation is to harness these technologies to have a positive impact and help people. 
+Sustainability is also a subject very close to my heart and I strive for my work to help society go in this direction.
 
 
 ## 🌱 I’m currently learning ...
-Many things at once! I'm interested in all sorts of things. 
+Many things at once! I am interested in all sorts of things. 
 
 ### ML and DL
 * Explore new flavours of machine learning methods
