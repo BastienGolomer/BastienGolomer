@@ -18,7 +18,6 @@ Many things at once! I'm interested in all sorts of things.
 * Explore new flavours of machine learning methods
 
 ### Software engineering
-* Basics of software engineering
 * System Design
 * front-end and back-end
 * Dabase systems
